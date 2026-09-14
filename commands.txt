@@ -1,0 +1,6 @@
+see updates:
+git fetch upstream
+git log --oneline HEAD..upstream/main
+
+Make updates
+git merge upstream/main
